@@ -1,0 +1,5 @@
+0 plante sain
+1 Phyllosticta concava
+2 cochenilles
+3 Canker
+4 anthracnose 
